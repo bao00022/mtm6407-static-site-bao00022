@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/mtm6407-static-site-bao00022/",
+  base: "/mtm6407-static-site-bao00022/.vitepress/dist/",
   cleanUrls: false,
   title: "Quiet Shots",
   description:
