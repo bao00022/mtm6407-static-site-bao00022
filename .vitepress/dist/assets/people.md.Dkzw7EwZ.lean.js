@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,ai as r,al as p}from"./chunks/framework.BvLjRLad.js";const m=JSON.parse('{"title":"People","description":"","frontmatter":{},"headers":[],"relativePath":"people.md","filePath":"people.md"}'),s={name:"people.md"};function h(i,e,n,l,d,_){return a(),o("div",null,[...e[0]||(e[0]=[r("",5)])])}const f=t(s,[["render",h]]);export{m as __pageData,f as default};

@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/mtm6407-static-site-bao00022/",
+  cleanUrls: false,
   title: "Quiet Shots",
   description:
     "This project presents a series of quiet photographs, each capturing a moment that conveys deeper meaning beyond what is immediately visible. Together, they explore how still images can express emotion, narrative, and reflection.",
