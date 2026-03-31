@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as i,ai as n,am as e}from"./chunks/framework.D0zRZo2j.js";const p=JSON.parse('{"title":"Urban","description":"","frontmatter":{},"headers":[],"relativePath":"urban.md","filePath":"urban.md"}'),o={name:"urban.md"};function s(c,a,l,h,d,_){return r(),i("div",null,[...a[0]||(a[0]=[n("",5)])])}const g=t(o,[["render",s]]);export{p as __pageData,g as default};
